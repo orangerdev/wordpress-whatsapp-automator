@@ -1,0 +1,13 @@
+{
+  "config": {
+    "platform": {
+      "php": "8.0.2"
+    }
+  },
+  "require": {
+    "php": "^8.0.2",
+    "htmlburger/carbon-fields": "^3.3",
+    "mpdf/mpdf": "^8.1",
+    "facebook/php-business-sdk": "^15.0"
+  }
+}
